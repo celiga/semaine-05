@@ -1,2 +1,2 @@
 # Semaine 5 Simplon
-Exercice CV HTML/CSS
+Exercices CV HTML/CSS
